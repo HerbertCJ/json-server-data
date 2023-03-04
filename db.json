@@ -1,0 +1,82 @@
+{
+    "homeproducts": [
+        {
+            "id": 4632, "title": "Bikini Cortininha Azul Atoalhado", "price": "189,00", "category": ["5", "8"], "image": ["https://bikinifox.com.br/img_prod/g_73970fba-90a3-4ec5-891a-e3b4e5e53b99.jpeg", "https://bikinifox.com.br/img_prod/g_2bf231f9-53e7-429f-9cd6-4bc3cede27eb.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "5", "sizes": ["P", "M", "G"], "addedDate" : "2022-10-05"
+        },
+        {
+            "id": 4631, "title": "Bikini Alexa Azul Atoalhado", "price": "219,00", "category": ["5", "8"], "image": ["https://bikinifox.com.br/img_prod/g_28a5dba1-56f8-4e1f-a846-2d5083c6b861.jpeg", "https://bikinifox.com.br/img_prod/g_b4e6515d-6f7e-495b-b445-9d0af65c7250.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "5", "sizes": ["P", "M", "G"], "addedDate" : "2022-03-04"
+        },
+        {
+            "id": 4626, "title": "Saia Longa Feel Blue", "price": "259,00", "category": ["7"], "image": ["https://bikinifox.com.br/img_prod/g_6113f48b-2693-4c21-ae30-c244fd189c78.jpeg", "https://bikinifox.com.br/img_prod/g_d4c279a2-5ef5-49ee-b83e-fc9942c958cc.jpeg", "https://bikinifox.com.br/img_prod/g_a84deb24-6135-45c2-9b2f-b2f9818fa056.jpeg", "https://bikinifox.com.br/img_prod/g_ee81c1a1-e90d-4883-ae9b-98f1cfa5682f.jpeg", "https://bikinifox.com.br/img_prod/g_291f4158-1fce-44c4-82f0-c656e51d2b1f.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "5", "sizes": ["P", "M", "G"], "addedDate" : "2022-10-05"
+        },
+        {
+            "id": 4625, "title": "Mini Saia Feel Blue", "price": "239,00", "category": ["7"], "image": ["https://bikinifox.com.br/img_prod/g_c949ef76-3962-49d4-9f46-2898f2192153.jpeg", "https://bikinifox.com.br/img_prod/g_c949ef76-3962-49d4-9f46-2898f2192153.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "5", "sizes": ["P", "M", "G"], "addedDate" : "2022-10-05"
+        },
+        {
+            "id": 4618, "title": "Top Lina Paete Blue", "oldprice": "189,00", "price": "109,00", "category": ["21"], "image": ["https://bikinifox.com.br/img_prod/g_f0c458de-c072-4b47-9eab-0661a232dfa1.jpeg", "https://bikinifox.com.br/img_prod/g_91f8424c-2a93-4761-9a21-0b7fb0608ae8.jpeg", "https://bikinifox.com.br/img_prod/g_69a1f0ad-9c94-4e54-9b61-102784aa9977.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "5", "sizes": ["P", "M", "G"], "addedDate" : "2022-10-05"
+        },
+        {
+            "id": 4611, "title": "Bikini Meia Taça Elos Perola", "oldprice": "249,00", "price": "179,00", "category": ["5", "8"], "image": ["https://bikinifox.com.br/img_prod/g_7099d549-7ec1-4b52-9eac-5706809c496c.jpeg", "https://bikinifox.com.br/img_prod/g_f626269c-078e-47b2-8ecc-77a93ecdf166.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "5", "sizes": ["P", "M", "G"], "addedDate" : "2022-10-05"
+        },
+        {
+            "id": 4623, "title": "Pareo Curta Feel Blue", "price": "139,00", "category": ["7"], "image": ["https://bikinifox.com.br/img_prod/g_08fdb778-7288-4eb9-991f-bda13edef177.jpeg", "https://bikinifox.com.br/img_prod/g_9b031e6c-a744-434f-a59f-055b224be540.jpeg", "https://bikinifox.com.br/img_prod/g_7844f433-022c-4a97-9303-dd4c9b604127.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "0", "sizes": ["P", "M", "G"], "addedDate" : "2022-10-05"
+        },
+        {
+            "id": 4223, "title": "Saia Nikki Roxa", "price": "249,90", "category": ["21"], "image": ["https://bikinifox.com.br/img_prod/g_d2f33052-6794-433d-8022-c39c2b13eca9.jpg"], "description": "Composição: 100% Poliester Produzido no Brasil Marca FOX BRASIL Modelo veste P", "stock": "0", "sizes": ["P", "M", "G"], "addedDate" : "2022-10-05"
+        } 
+        
+    ],
+    "allproducts": [
+        {
+            "id": 4632, "title": "Bikini Cortininha Azul Atoalhado", "price": "189,00", "category": ["5", "8"], "image": ["https://bikinifox.com.br/img_prod/g_73970fba-90a3-4ec5-891a-e3b4e5e53b99.jpeg", "https://bikinifox.com.br/img_prod/g_2bf231f9-53e7-429f-9cd6-4bc3cede27eb.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "5", "sizes": ["P", "M", "G"], "addedDate" : "2023-03-02"
+        },
+        {
+            "id": 4631, "title": "Bikini Alexa Azul Atoalhado", "price": "219,00", "category": ["5", "8"], "image": ["https://bikinifox.com.br/img_prod/g_28a5dba1-56f8-4e1f-a846-2d5083c6b861.jpeg", "https://bikinifox.com.br/img_prod/g_b4e6515d-6f7e-495b-b445-9d0af65c7250.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "5", "sizes": ["P", "M", "G"], "addedDate" : "2019-02-05"
+        },
+        {
+            "id": 4626, "title": "Saia Longa Feel Blue", "price": "259,00", "category": ["7"], "image": ["https://bikinifox.com.br/img_prod/g_6113f48b-2693-4c21-ae30-c244fd189c78.jpeg", "https://bikinifox.com.br/img_prod/g_d4c279a2-5ef5-49ee-b83e-fc9942c958cc.jpeg", "https://bikinifox.com.br/img_prod/g_a84deb24-6135-45c2-9b2f-b2f9818fa056.jpeg", "https://bikinifox.com.br/img_prod/g_ee81c1a1-e90d-4883-ae9b-98f1cfa5682f.jpeg", "https://bikinifox.com.br/img_prod/g_291f4158-1fce-44c4-82f0-c656e51d2b1f.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "5", "sizes": ["P", "M", "G"], "addedDate" : "2022-10-05"
+        },
+        {
+            "id": 4625, "title": "Mini Saia Feel Blue", "price": "239,00", "category": ["7"], "image": ["https://bikinifox.com.br/img_prod/g_c949ef76-3962-49d4-9f46-2898f2192153.jpeg", "https://bikinifox.com.br/img_prod/g_c949ef76-3962-49d4-9f46-2898f2192153.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "5", "sizes": ["P", "M", "G"], "addedDate" : "2022-10-05"
+        },
+        {
+            "id": 4618, "title": "Top Lina Paete Blue", "oldprice": "189,00", "price": "109,00", "category": ["21"], "image": ["https://bikinifox.com.br/img_prod/g_f0c458de-c072-4b47-9eab-0661a232dfa1.jpeg", "https://bikinifox.com.br/img_prod/g_91f8424c-2a93-4761-9a21-0b7fb0608ae8.jpeg", "https://bikinifox.com.br/img_prod/g_69a1f0ad-9c94-4e54-9b61-102784aa9977.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "5", "sizes": ["P", "M", "G"], "addedDate" : "2022-10-05"
+        },
+        {
+            "id": 4611, "title": "Bikini Meia Taça Elos Perola", "oldprice": "249,00", "price": "179,00", "category": ["5", "8"], "image": ["https://bikinifox.com.br/img_prod/g_7099d549-7ec1-4b52-9eac-5706809c496c.jpeg", "https://bikinifox.com.br/img_prod/g_f626269c-078e-47b2-8ecc-77a93ecdf166.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "5", "sizes": ["P", "M", "G"], "addedDate" : "2022-10-05"
+        },
+        {
+            "id": 4635, "title": "Conjunto Slim Dupla Face Branco Dry Fit", "price": "179,00", "category": ["18"], "image": ["https://bikinifox.com.br/img_prod/g_b52e5c7e-87b8-467c-aca3-99bc3c58de99.jpeg", "https://bikinifox.com.br/img_prod/g_3113d5e1-5dd2-4f05-a3e9-f6a40fec0d37.jpeg", "https://bikinifox.com.br/img_prod/g_794934e2-ca92-43fc-b7d6-3d96b15ba45d.jpeg", "https://bikinifox.com.br/img_prod/g_0069ec11-fb87-4a78-bafc-9f801d7405c1.jpeg", "https://bikinifox.com.br/img_prod/g_7453812c-ad7f-4edf-b986-15239789d792.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "0", "sizes": ["P", "M", "G"], "addedDate" : "2022-10-05"
+        },  
+        {
+            "id": 4539, "title": "Boné Verde Militar","oldprice": "119,90", "price": "69,90", "category": ["21"], "image": ["https://bikinifox.com.br/img_prod/g_27c3714d-f445-48e1-a0a1-3185dda77d4b.jpeg", "https://bikinifox.com.br/img_prod/g_aea3e9fe-d64a-412a-8234-7f6600454639.jpeg", "https://bikinifox.com.br/img_prod/g_e3735d8f-f269-4f18-9ae0-3e6e98b6e666.jpeg", "https://bikinifox.com.br/img_prod/g_f887e055-ccbf-4008-9236-f8d2c4c2590a.jpeg"], "description": "", "stock": "0", "sizes": ["ÚNICO"], "addedDate" : "2023-02-01"
+        },  
+        {
+            "id": 4538, "title": "Boné Azul Marinho","oldprice": "119,90", "price": "69,90", "category": ["21"], "image": ["https://bikinifox.com.br/img_prod/g_9f257c53-246e-4b94-bb58-5bf3201b4391.jpeg", "https://bikinifox.com.br/img_prod/g_e4b27067-0b38-4c95-83b5-afed6e9e2ff0.jpeg", "https://bikinifox.com.br/img_prod/g_725f664c-605b-4cbf-9e52-2aac3dbed590.jpeg", "hhttps://bikinifox.com.br/img_prod/g_1df8bf1b-1067-4c94-b7d3-9edc98d435f4.jpeg"], "description": "", "stock": "0", "sizes": ["ÚNICO"], "addedDate" : "2022-10-05"
+        },
+        {
+            "id": 4223, "title": "Saia Nikki Roxa", "price": "249,90", "category": ["21"], "image": ["https://bikinifox.com.br/img_prod/g_d2f33052-6794-433d-8022-c39c2b13eca9.jpg"], "description": "Composição: 100% Poliester Produzido no Brasil Marca FOX BRASIL Modelo veste P", "stock": "0", "sizes": ["P", "M", "G"], "addedDate" : "2022-10-05"
+        },
+        {
+            "id": 4623, "title": "Pareo Curta Feel Blue", "price": "139,00", "category": ["7"], "image": ["https://bikinifox.com.br/img_prod/g_08fdb778-7288-4eb9-991f-bda13edef177.jpeg", "https://bikinifox.com.br/img_prod/g_9b031e6c-a744-434f-a59f-055b224be540.jpeg", "https://bikinifox.com.br/img_prod/g_7844f433-022c-4a97-9303-dd4c9b604127.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "0", "sizes": ["P", "M", "G"], "addedDate" : "2023-03-02"
+        },
+        {
+            "id": 4633, "title": "Bikini Alexa Retro", "oldprice" : "219,00","price": "109,00", "category": ["4", "11"], "image": ["https://bikinifox.com.br/img_prod/g_13d5f71e-082f-4708-8ce9-588070be130b.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "5", "sizes": ["P", "M", "G"], "addedDate" : "2023-03-03"
+        },
+        {
+            "id": 4627, "title": "Body Eve Azul Atoalhado", "oldprice" : "219,00","price": "109,00", "category": ["4", "10"], "image": ["https://bikinifox.com.br/img_prod/g_cc772848-5cfb-473b-addf-14e04f97a069.jpeg", "https://bikinifox.com.br/img_prod/g_16dd959f-abc5-4ee2-9684-307457152e0a.jpeg", "https://bikinifox.com.br/img_prod/g_b2e2b9c0-31cb-46ed-b530-b9258ca14a1c.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "0", "sizes": ["P"], "addedDate" : "2022-10-05"
+        },
+        {
+            "id": 4486, "title": "Bikini Cortininha Retrô", "oldprice" : "199,00","price": "99,00", "category": ["5", "6"], "image": ["https://bikinifox.com.br/img_prod/g_fd4aad28-1994-4c93-a531-16c6d35f9a10.jpeg", "https://bikinifox.com.br/img_prod/g_adb0fe05-c279-446a-b982-2abd0f6d5d66.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "10", "sizes": ["G"], "addedDate" : "2022-10-06"
+        },
+        {
+            "id": 4592, "title": "Calça Elastico Lemon", "price": "259,00", "category": ["21", "novidades"], "image": ["https://bikinifox.com.br/img_prod/g_c54c838d-62a8-4acf-9f54-85939f6a760a.jpeg", "https://bikinifox.com.br/img_prod/g_ae4e2045-4b91-442c-9792-3ff974cff813.jpeg", "https://bikinifox.com.br/img_prod/g_396b160f-36da-4a38-a420-22eb07b202ba.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "10", "sizes": ["P", "M"], "addedDate" : "2022-01-01"
+        },
+        {
+            "id": 4584, "title": "Bikini Naomi Rosa Brilho", "oldprice" : "239,00","price": "119,90", "category": ["5", "8", "sale"], "image": ["https://bikinifox.com.br/img_prod/g_f6934d7f-20f0-431d-998d-0d5eff83cf66.jpg", "https://bikinifox.com.br/img_prod/g_38388322-9bc9-448d-b13d-87fa375ae52d.jpg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "3", "sizes": ["G"], "addedDate" : "2023-03-04"
+        },
+        {
+            "id": 4609, "title": "Body Regata Elos Preto", "oldprice" : "239,00","price": "179,90", "category": ["4", "10", "novidades", "sale"], "image": ["https://bikinifox.com.br/img_prod/g_911f6bb4-3862-448d-8934-2dccfe546656.jpeg", "https://bikinifox.com.br/img_prod/g_4e2bffbc-aa6e-4fbb-bcde-80247ebe9dc8.jpeg"], "description": ["Composição:", "100% Poliamida", "Produzido no Brasil", "Marca FOX BRASIL"], "stock": "3", "sizes": ["P"], "addedDate" : "2023-01-25"
+        } 
+    ]
+}
